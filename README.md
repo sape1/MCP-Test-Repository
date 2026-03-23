@@ -10,4 +10,4 @@ Dieses Repository dient dazu, einen MCP Server zu testen.
 | C3  | Sternenhimmel |
 | D4  | Regenbogen    |
 | E5  | Blütentraum   |
-| F6  | Hokuspokus    |
+| F6  | Abrakadabra   |
